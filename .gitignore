@@ -1,0 +1,15 @@
+firmware/build/
+firmware/build-*/
+host/**/bin/
+host/**/obj/
+.vs/
+.dotnet-cli/
+*.user
+tools/protocol-vectors/*.packets
+/test.packets
+tools/openwch-ch32x035/
+tools/wch-*.js
+tools/CH32X035EVT-download.html
+tools/weact-system-monitor/
+tools/msu2-official/
+tools/msu-mini-reference/
